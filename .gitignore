@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Large media (kept local)
+demo.mov
+*.mov
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+.swiftpm/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods / Carthage / SPM
+Pods/
+Carthage/Build/
+.build/
